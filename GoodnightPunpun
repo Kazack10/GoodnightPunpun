@@ -20,6 +20,22 @@
         "biasa aja": "/proxy/api/imgur/chapter/JTTuyRm/"
       },
       "last_updated": "1627037929"
+    },
+    "20": {
+      "title": "Chapter 20",
+      "volume": "1",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/tjRaXD2/"
+      },
+      "last_updated": "1627037929"
+    },
+    "21": {
+      "title": "Chapter 21",
+      "volume": "1",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/avufEhV/"
+      },
+      "last_updated": "1627037929"
     }
   }
 }
