@@ -44,6 +44,54 @@
         "biasa aja": "/proxy/api/imgur/chapter/rtF9UbI/"
       },
       "last_updated": "1627925936"
+    },
+    "23": {
+      "title": "Chapter 23",
+      "volume": "1",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/XXFljTY/"
+      },
+      "last_updated": "1629357032"
+    },
+    "24": {
+      "title": "Chapter 24",
+      "volume": "2",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/0h9VZIE/"
+      },
+      "last_updated": "1629357032"
+    },
+    "25": {
+      "title": "Chapter 25",
+      "volume": "2",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/XTU8dIq/"
+      },
+      "last_updated": "1629357032"
+    },
+    "26": {
+      "title": "Chapter 26",
+      "volume": "2",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/jUZ6Dlh/"
+      },
+      "last_updated": "1629357032"
+    },
+    "27": {
+      "title": "Chapter 27",
+      "volume": "2",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/SEaW4dD/"
+      },
+      "last_updated": "1629357032"
+    },
+    "28": {
+      "title": "Chapter 28",
+      "volume": "2",
+      "groups": {
+        "biasa aja": "/proxy/api/imgur/chapter/ysTXhRh/"
+      },
+      "last_updated": "1629357032"
     }
   }
 }
